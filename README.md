@@ -23,7 +23,8 @@ The objective of the Detection Lab project was to create a secure environment fo
 
 ### Steps
 
-<a href="https://imgur.com/a/vqCBhx8"><img src="https://imgur.com/a/vqCBhx8 /></a>
+<a href="https://imgur.com/a/vqCBhx8">Click Here to View</a>
+
 
 
 Every screenshot should have some text explaining what the screenshot is about.
